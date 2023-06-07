@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "mongoose": "^7.2.2",
+    "shortid": "^2.2.16",
+    "streamsearch": "^1.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
